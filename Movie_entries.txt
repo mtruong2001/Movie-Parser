@@ -1,0 +1,22 @@
+Avengers: Age of Ultron,Joss Whedon,science fiction,2015,120
+Mean Girls,Mark Waters,comedy,2004,97
+Happy Feet,George Miller,comedy,2006,108
+Surf's Up,Chris Buck,adventure,2007,85
+The Great Escape,John Sturges,thriller,1963,172
+Superbad,Gret Mottola,comedy,2007,113
+Earthlings,Shaun Monson,documentary,2005,95
+Limitless,Neil Burger,thriller,2011,105
+Guardians of the Galaxy,James Gunn,fantasy,2014,120
+Kung Fu Hustle,Stephen Chow,fantasy,2004,99
+Whiplash,Damien Chazelle,drama,2014,106
+Ghost in the Shell,Mamoru Oshii,manga,1995,82
+Inglourious Basterds,Quentin Tarantino,drama,2009,120
+Under the Tuscan Sun,Audrey Wells,drama,2003,113
+A Thousand Words,Brian Robbins,comedy,2012,91
+Interstellar,Christopher Nollan,science fiction,2014,160
+Zoolander,Ben Stiller,comedy,2001,105
+Captain America: The Winter Soldier,Russo,science fiction,2014,120
+Chungking Express,Kai Wai Wong,drama,1994,98
+The Matrix,Andy Wachowski,fantasy,1999,136
+Gone Girl,David Fincher,mystery,2014,129
+Saving Private Ryan,Steven Spielberg,drama,1998,120
